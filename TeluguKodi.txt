@@ -1,117 +1,117 @@
 #EXTM3U
 
-#EXTINF:0, group-title="Telugu",10 TV
+#EXTINF:0, 10 TV
 http://thoptv.stream/jiotv/live/play?10_TV/10_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",ABN Andhra Jyothi
+#EXTINF:0, ABN Andhra Jyothi
 http://thoptv.stream/jiotv/live/play?ABN_Andhra_Jyothi/ABN_Andhra_Jyothi_800.m3u8
-#EXTINF:0, group-title="Telugu",Aradhana
+#EXTINF:0, Aradhana
 http://thoptv.stream/jiotv/live/play?Aradhana_TV/Aradhana_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Bhakti TV
+#EXTINF:0, Bhakti TV
 http://thoptv.stream/jiotv/live/play?Bhakti_TV/Bhakti_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Cartoon Network (Telugu)
+#EXTINF:0, Cartoon Network (Telugu)
 http://thoptv.stream/jiotv/live/play?Cartoon_Network_Telugu/Cartoon_Network_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",CVR Health
+#EXTINF:0, CVR Health
 http://thoptv.stream/jiotv/live/play?CVR_Health/CVR_Health_800.m3u8
-#EXTINF:0, group-title="Telugu",CVR News
+#EXTINF:0, CVR News
 http://thoptv.stream/jiotv/live/play?CVR_News/CVR_News_800.m3u8
-#EXTINF:0, group-title="Telugu",Om CVR Spiritual
+#EXTINF:0, Om CVR Spiritual
 http://thoptv.stream/jiotv/live/play?CVR_OM_Spiritual/CVR_OM_Spiritual_800.m3u8
-#EXTINF:0, group-title="Telugu",DD Saptagiri
+#EXTINF:0, DD Saptagiri
 http://thoptv.stream/jiotv/live/play?DD_Saptagiri/DD_Saptagiri_800.m3u8
-#EXTINF:0, group-title="Telugu",Discovery Channel (Telugu)
+#EXTINF:0, Discovery Channel (Telugu)
 http://thoptv.stream/jiotv/live/play?Discovery_Channel_Telugu/Discovery_Channel_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv Abhiruchi
+#EXTINF:0, Etv Abhiruchi
 http://thoptv.stream/jiotv/live/play?ETV_Abhiruchi/ETV_Abhiruchi_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv AP
+#EXTINF:0, Etv AP
 http://thoptv.stream/jiotv/live/play?ETV_Andhra_pradesh/ETV_Andhra_pradesh_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv Cinema
+#EXTINF:0, Etv Cinema
 http://thoptv.stream/jiotv/live/play?ETV_Cinema/ETV_Cinema_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv Life
+#EXTINF:0, Etv Life
 http://thoptv.stream/jiotv/live/play?ETV_Life/ETV_Life_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv Plus
+#EXTINF:0, Etv Plus
 http://thoptv.stream/jiotv/live/play?ETV_Plus/ETV_Plus_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv Telangana
+#EXTINF:0, Etv Telangana
 http://thoptv.stream/jiotv/live/play?ETV_Telangana/ETV_Telangana_800.m3u8
-#EXTINF:0, group-title="Telugu",Etv Telugu
+#EXTINF:0, Etv Telugu
 http://thoptv.stream/jiotv/live/play?ETV_Telugu/ETV_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini Comedy
+#EXTINF:0, Gemini Comedy
 http://thoptv.stream/jiotv/live/play?Gemini_Comedy/Gemini_Comedy_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini Life
+#EXTINF:0, Gemini Life
 http://thoptv.stream/jiotv/live/play?Gemini_Life/Gemini_Life_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini Movies
+#EXTINF:0, Gemini Movies
 http://thoptv.stream/jiotv/live/play?Gemini_Movies/Gemini_Movies_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini Movies HD
+#EXTINF:0, Gemini Movies HD
 http://thoptv.stream/jiotv/live/play?Gemini_Movies_HD/Gemini_Movies_HD_1200.m3u8
-#EXTINF:0, group-title="Telugu",Gemini Music
+#EXTINF:0, Gemini Music
 http://thoptv.stream/jiotv/live/play?Gemini_Music/Gemini_Music_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini Music HD
+#EXTINF:0, Gemini Music HD
 http://thoptv.stream/jiotv/live/play?Gemini_Music_HD/Gemini_Music_HD_1200.m3u8
-#EXTINF:0, group-title="Telugu",Gemini News
+#EXTINF:0, Gemini News
 http://thoptv.stream/jiotv/live/play?Gemini_News/Gemini_News_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini
+#EXTINF:0, Gemini
 http://thoptv.stream/jiotv/live/play?Gemini_TV/Gemini_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Gemini HD
+#EXTINF:0, Gemini HD
 http://thoptv.stream/jiotv/live/play?Gemini_TV_HD/Gemini_TV_HD_1200.m3u8
-#EXTINF:0, group-title="Telugu",Gyana Yogi
+#EXTINF:0, Gyana Yogi
 http://thoptv.stream/jiotv/live/play?Gyana_Yogi/Gyana_Yogi_800.m3u8
-#EXTINF:0, group-title="Telugu",Hindu Dharmam
+#EXTINF:0, Hindu Dharmam
 http://thoptv.stream/jiotv/live/play?Hindu_Dharmam/Hindu_Dharmam_800.m3u8
-#EXTINF:0, group-title="Telugu",History HD (Telugu)
+#EXTINF:0, History HD (Telugu)
 http://thoptv.stream/jiotv/live/play?History_18_Telugu/History_18_Telugu_1200.m3u8
-#EXTINF:0, group-title="Telugu",hmtv
+#EXTINF:0, hmtv
 http://thoptv.stream/jiotv/live/play?HM_TV/HM_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",i News
+#EXTINF:0, i News
 http://thoptv.stream/jiotv/live/play?I_News/I_News_800.m3u8
-#EXTINF:0, group-title="Telugu",Jaya Jaya Shankara TV
+#EXTINF:0, Jaya Jaya Shankara TV
 http://thoptv.stream/jiotv/live/play?Jaya_Jaya_Shankara_TV/Jaya_Jaya_Shankara_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Kushi TV
+#EXTINF:0, Kushi TV
 http://thoptv.stream/jiotv/live/play?Kushi_TV/Kushi_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Maa Gold HD
+#EXTINF:0, Maa Gold HD
 http://thoptv.stream/jiotv/live/play?Maa_Gold/Maa_Gold_1200.m3u8
-#EXTINF:0, group-title="Telugu",Maa Movies HD
+#EXTINF:0, Maa Movies HD
 http://thoptv.stream/jiotv/live/play?Maa_Movies/Maa_Movies_1200.m3u8
-#EXTINF:0, group-title="Telugu",Maa TV HD
+#EXTINF:0, Maa TV HD
 http://thoptv.stream/jiotv/live/play?Maa_TV/Maa_TV_1200.m3u8
-#EXTINF:0, group-title="Telugu",Maha News
+#EXTINF:0, Maha News
 http://thoptv.stream/jiotv/live/play?Maha_News/Maha_News_800.m3u8
-#EXTINF:0, group-title="Telugu",Nick (Telugu)
+#EXTINF:0, Nick (Telugu)
 http://thoptv.stream/jiotv/live/play?Nick_Telugu/Nick_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",NTV
+#EXTINF:0, NTV
 http://thoptv.stream/jiotv/live/play?NTV/NTV_800.m3u8
-#EXTINF:0, group-title="Telugu",Raj Musix (Telugu)
+#EXTINF:0, Raj Musix (Telugu)
 http://thoptv.stream/jiotv/live/play?Raj_Music_Telugu/Raj_Music_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",Raj News (Telugu)
+#EXTINF:0, Raj News (Telugu)
 http://thoptv.stream/jiotv/live/play?Raj_News_Telugu/Raj_News_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",Rujumargam TV
+#EXTINF:0, Rujumargam TV
 http://thoptv.stream/jiotv/live/play?Rujumargam_TV/Rujumargam_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Sakshi TV
+#EXTINF:0, Sakshi TV
 http://thoptv.stream/jiotv/live/play?Sakshi_tv/Sakshi_tv_800.m3u8
-#EXTINF:0, group-title="Telugu",Shiva Shakti Sai TV
+#EXTINF:0, Shiva Shakti Sai TV
 http://thoptv.stream/jiotv/live/play?Shiva_Shakti_Sai_TV/Shiva_Shakti_Sai_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Sony BBC Earth HD (Telugu)
+#EXTINF:0, Sony BBC Earth HD (Telugu)
 http://thoptv.stream/jiotv/live/play?Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu_1200.m3u8
-#EXTINF:0, group-title="Telugu",Sony Yay (Telugu)
+#EXTINF:0, Sony Yay (Telugu)
 http://thoptv.stream/jiotv/live/play?Sony_Yay_Telugu/Sony_Yay_Telugu_800.m3u8
-#EXTINF:0, group-title="Telugu",Sri Venkateshwar Bhakti
+#EXTINF:0, Sri Venkateshwar Bhakti
 http://thoptv.stream/jiotv/live/play?Sri_Venkateshwar_Bhakti/Sri_Venkateshwar_Bhakti_800.m3u8
-#EXTINF:0, group-title="Telugu",Studio N News
+#EXTINF:0, Studio N News
 http://thoptv.stream/jiotv/live/play?Studio_n/Studio_n_800.m3u8
-#EXTINF:0, group-title="Telugu",Subhavartha
+#EXTINF:0, Subhavartha
 http://thoptv.stream/jiotv/live/play?Subhavartha_TV/Subhavartha_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Swara Sagar
+#EXTINF:0, Swara Sagar
 http://thoptv.stream/jiotv/live/play?Divya_Vani/Divya_Vani_800.m3u8
-#EXTINF:0, group-title="Telugu",T News
+#EXTINF:0, T News
 http://thoptv.stream/jiotv/live/play?T_News/T_News_800.m3u8
-#EXTINF:0, group-title="Telugu",TV 5 News
+#EXTINF:0, TV 5 News
 http://thoptv.stream/jiotv/live/play?TV_5_News/TV_5_News_800.m3u8
-#EXTINF:0, group-title="Telugu",TV1
+#EXTINF:0, TV1
 http://thoptv.stream/jiotv/live/play?TV1/TV1_800.m3u8
-#EXTINF:0, group-title="Telugu",TV9 Telugu
+#EXTINF:0, TV9 Telugu
 http://thoptv.stream/jiotv/live/play?TV9_Telugu_News/TV9_Telugu_News_800.m3u8
-#EXTINF:0, group-title="Telugu",V6 News
+#EXTINF:0, V6 News
 http://thoptv.stream/jiotv/live/play?V6_News/V6_News_800.m3u8
-#EXTINF:0, group-title="Telugu",Vanitha
+#EXTINF:0, Vanitha
 http://thoptv.stream/jiotv/live/play?Vanitha/Vanitha_800.m3u8
-#EXTINF:0, group-title="Telugu",Vissa TV
+#EXTINF:0, Vissa TV
 http://thoptv.stream/jiotv/live/play?Vissa_TV/Vissa_TV_800.m3u8
-#EXTINF:0, group-title="Telugu",Zee Telugu
+#EXTINF:0, Zee Telugu
