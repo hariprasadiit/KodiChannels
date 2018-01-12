@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:0, 10 TV
+#EXTINF:0, group-title="Telugu",10 TV
 http://thoptv.stream/jiotv/live/play?10_TV/10_TV_800.m3u8
-#EXTINF:0, ABN Andhra Jyothi
+#EXTINF:0, group-title="Telugu",ABN Andhra Jyothi
 http://thoptv.stream/jiotv/live/play?ABN_Andhra_Jyothi/ABN_Andhra_Jyothi_800.m3u8
 #EXTINF:0, group-title="Telugu",Aradhana
 http://thoptv.stream/jiotv/live/play?Aradhana_TV/Aradhana_TV_800.m3u8
