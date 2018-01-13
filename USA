@@ -1,0 +1,35 @@
+#EXTINF:National Geographic
+http://cdnworld.magictvbox.eu/National_Geographic_HD/tracks-v3a1/index.m3u8?token=soc4up
+#EXTINF:National Geographic HD
+http://cdnworld.magictvbox.eu/National_Geographic_HD/tracks-v2a1/index.m3u8?token=soc4up
+#EXTINF:National Geographic HD +
+http://cdnworld.magictvbox.eu/National_Geographic_HD/tracks-v1a1/index.m3u8?token=soc4up
+#EXTINF:Discovery Science
+http://cdnworld.magictvbox.eu/Discovery_Science_HD/tracks-v3a1/index.m3u8?token=soc4up
+#EXTINF:Discovery Science HD
+http://cdnworld.magictvbox.eu/Discovery_Science_HD/tracks-v2a1/index.m3u8?token=soc4up
+#EXTINF:Discovery Science HD +
+http://cdnworld.magictvbox.eu/Discovery_Science_HD/tracks-v1a1/index.m3u8?token=soc4up
+#EXTINF:0 ,Discovery Showcase
+http://cdnworld.magictvbox.eu/Discovery_Showcase_HD/tracks-v3a1/index.m3u8?token=soc4up
+#EXTINF:0 ,Discovery HD Showcase
+http://cdnworld.magictvbox.eu/Discovery_Showcase_HD/tracks-v2a1/index.m3u8?token=soc4up
+#EXTINF:0 ,Discovery HD Showcase +
+http://cdnworld.magictvbox.eu/Discovery_Showcase_HD/tracks-v1a1/index.m3u8?token=soc4up
+
+#EXTINF:Eurosport 1 HD USA
+http://cdnworld.magictvbox.eu/Eurosport_HD/tracks-v2a1/index.m3u8?token=soc4up
+#EXTINF:Fox Life HD USA
+http://cdnworld.magictvbox.eu/Fox_Life_HD/tracks-v2a1/index.m3u8?token=soc4up
+#EXTINF:FOX HD USA
+http://cdnworld.magictvbox.eu/Fox_HD/tracks-v2a1/index.m3u8?token=soc4up
+#EXTINF:Nat Geo Wild SD USA
+http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/tracks-v3a1/index.m3u8?token=soc4up
+#EXTINF:Nat Geo Wild HD 720 USA
+http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/tracks-v2a1/index.m3u8?token=soc4up
+#EXTINF:Nat Geo Wild HD 1980 USA
+http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/tracks-v1a1/index.m3u8?token=soc4up
+#EXTINF:Nat Geo Wild HD USA
+http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/index.m3u8?token=soc4up
+#EXTINF:Animal planet HD USA
+http://cdnworld.magictvbox.eu/Animal_Planet_HD/tracks-v2a1/index.m3u8?token=soc4up
